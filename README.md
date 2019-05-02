@@ -3,3 +3,4 @@ This repository is to follow along the TAFE activity on creating a new repositor
 ##Marcela Cardona
 I'm a student of Web Developemtn at TAFE NSW. Loving the frotend and web-design part of the courese.
 Currently working on React.js project. 
+in this part i will add some css
